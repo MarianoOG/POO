@@ -1,0 +1,311 @@
+# depslib dependency file v1.0
+1339367218 source:c:\users\ana jimena\desktop\cine\palomitas.cpp
+	"Palomitas.h"
+
+1339352402 c:\users\ana jimena\desktop\cine\palomitas.h
+	"Articulos.h"
+	<iostream>
+
+1339352087 c:\users\ana jimena\desktop\cine\articulos.h
+	<iostream>
+
+1339350052 source:c:\users\ana jimena\desktop\cine\articulos.cpp
+	"Articulos.h"
+
+1339366698 source:c:\users\ana jimena\desktop\cine\main.cpp
+	<iostream>
+	"Palomitas.h"
+	"Refresco.h"
+	"Nachos.h"
+	"Hotdog.h"
+	"Ice.h"
+	"Chocolate.h"
+	"Paquete1.h"
+	"Paquete2.h"
+	"Paquete3.h"
+	"Paquete4.h"
+	"FormadePago.h"
+	<Windows.h>
+
+1339365611 source:c:\users\ana jimena\desktop\cine\refresco.cpp
+	"Refresco.h"
+
+1339352088 c:\users\ana jimena\desktop\cine\refresco.h
+	<iostream>
+	"Articulos.h"
+
+1339262664 source:f:\cine\palomitas.cpp
+	"Palomitas.h"
+
+1339269710 f:\cine\palomitas.h
+	"Articulos.h"
+	<iostream>
+
+1339269710 f:\cine\articulos.h
+	<iostream>
+
+1339267470 source:f:\cine\refresco.cpp
+	"Refresco.h"
+
+1339015320 f:\cine\refresco.h
+	<iostream>
+	"Articulos.h"
+
+1339269710 source:f:\cine\main.cpp
+	<iostream>
+	"Palomitas.h"
+	"Refresco.h"
+	"Nachos.h"
+	"Hotdog.h"
+	"Ice.h"
+
+1339012400 source:f:\cine\articulos.cpp
+	"Articulos.h"
+
+1339267470 source:f:\cine\nachos.cpp
+	"Nachos.h"
+
+1339264520 f:\cine\nachos.h
+	"Articulos.h"
+	<iostream>
+
+1339267516 source:f:\cine\hotdog.cpp
+	"Hotdog.h"
+
+1339267608 f:\cine\hotdog.h
+	"Articulos.h"
+	<iostream>
+
+1339269710 f:\cine\ice.h
+	"Articulos.h"
+	<iostream>
+
+1339350052 source:d:\cine\articulos.cpp
+	"Articulos.h"
+
+1339350026 d:\cine\articulos.h
+	<iostream>
+
+1339271346 source:d:\cine\chocolate.cpp
+	"Chocolate.h"
+
+1339271264 d:\cine\chocolate.h
+	"Articulos.h"
+	<iostream>
+
+1339267516 source:d:\cine\hotdog.cpp
+	"Hotdog.h"
+
+1339267608 d:\cine\hotdog.h
+	"Articulos.h"
+	<iostream>
+
+1339271178 source:d:\cine\ice.cpp
+	"Ice.h"
+
+1339269710 d:\cine\ice.h
+	"Articulos.h"
+	<iostream>
+
+1339267470 source:d:\cine\nachos.cpp
+	"Nachos.h"
+
+1339264520 d:\cine\nachos.h
+	"Articulos.h"
+	<iostream>
+
+1339262664 source:d:\cine\palomitas.cpp
+	"Palomitas.h"
+
+1339269710 d:\cine\palomitas.h
+	"Articulos.h"
+	<iostream>
+
+1339267470 source:d:\cine\refresco.cpp
+	"Refresco.h"
+
+1339350026 d:\cine\refresco.h
+	<iostream>
+	"Articulos.h"
+
+1339272064 source:d:\cine\main.cpp
+	<iostream>
+	"Palomitas.h"
+	"Refresco.h"
+	"Nachos.h"
+	"Hotdog.h"
+	"Ice.h"
+	"Chocolate.h"
+
+1339348866 source:d:\cine\paquetes.cpp
+	"Paquetes.h"
+
+1339348962 d:\cine\paquetes.h
+	<iostream>
+	"Palomitas.h"
+	"Refresco.h"
+	"Chocolate.h"
+	"Hotdog.h"
+	"Ice.h"
+	"Nachos.h"
+
+1339365611 source:c:\users\ana jimena\desktop\cine\chocolate.cpp
+	"Chocolate.h"
+
+1339361278 c:\users\ana jimena\desktop\cine\chocolate.h
+	"Articulos.h"
+	<iostream>
+
+1339365611 source:c:\users\ana jimena\desktop\cine\hotdog.cpp
+	"Hotdog.h"
+
+1339352088 c:\users\ana jimena\desktop\cine\hotdog.h
+	"Articulos.h"
+	<iostream>
+
+1339365611 source:c:\users\ana jimena\desktop\cine\ice.cpp
+	"Ice.h"
+
+1339356097 c:\users\ana jimena\desktop\cine\ice.h
+	"Articulos.h"
+	<iostream>
+
+1339365611 source:c:\users\ana jimena\desktop\cine\nachos.cpp
+	"Nachos.h"
+
+1339357289 c:\users\ana jimena\desktop\cine\nachos.h
+	"Articulos.h"
+	<iostream>
+
+1339350026 source:c:\users\ana jimena\desktop\cine\paquetes.cpp
+	"Paquetes.h"
+
+1339355023 c:\users\ana jimena\desktop\cine\paquetes.h
+	<iostream>
+	"Palomitas.h"
+	"Refresco.h"
+	"Chocolate.h"
+	"Hotdog.h"
+	"Ice.h"
+	"Nachos.h"
+
+1339365611 source:c:\users\ana jimena\desktop\cine\paquete1.cpp
+	"Paquete1.h"
+
+1339355023 c:\users\ana jimena\desktop\cine\paquete1.h
+	"Paquetes.h"
+
+1339365611 source:c:\users\ana jimena\desktop\cine\paquete2.cpp
+	"Paquete2.h"
+
+1339357373 c:\users\ana jimena\desktop\cine\paquete2.h
+	"Paquetes.h"
+
+1339365627 source:c:\users\ana jimena\desktop\cine\paquete3.cpp
+	"Paquete3.h"
+
+1339359365 c:\users\ana jimena\desktop\cine\paquete3.h
+	"Paquetes.h"
+
+1339366698 source:c:\users\ana jimena\desktop\cine\paquete4.cpp
+	"Paquete4.h"
+
+1339366698 c:\users\ana jimena\desktop\cine\paquete4.h
+	"Paquetes.h"
+
+1339366225 source:c:\users\ana jimena\desktop\cine\formadepago.cpp
+	"FormadePago.h"
+
+1339363259 c:\users\ana jimena\desktop\cine\formadepago.h
+	<iostream>
+
+1339350052 source:c:\users\my laptop\desktop\cine\articulos.cpp
+	"Articulos.h"
+
+1339352088 c:\users\my laptop\desktop\cine\articulos.h
+	<iostream>
+
+1339365612 source:c:\users\my laptop\desktop\cine\chocolate.cpp
+	"Chocolate.h"
+
+1339361280 c:\users\my laptop\desktop\cine\chocolate.h
+	"Articulos.h"
+	<iostream>
+
+1339784727 source:c:\users\my laptop\desktop\cine\formadepago.cpp
+	"FormadePago.h"
+
+1339363260 c:\users\my laptop\desktop\cine\formadepago.h
+	<iostream>
+
+1339365612 source:c:\users\my laptop\desktop\cine\hotdog.cpp
+	"Hotdog.h"
+
+1339352090 c:\users\my laptop\desktop\cine\hotdog.h
+	"Articulos.h"
+	<iostream>
+
+1339365612 source:c:\users\my laptop\desktop\cine\ice.cpp
+	"Ice.h"
+
+1339356098 c:\users\my laptop\desktop\cine\ice.h
+	"Articulos.h"
+	<iostream>
+
+1339365612 source:c:\users\my laptop\desktop\cine\nachos.cpp
+	"Nachos.h"
+
+1339357290 c:\users\my laptop\desktop\cine\nachos.h
+	"Articulos.h"
+	<iostream>
+
+1339367710 source:c:\users\my laptop\desktop\cine\palomitas.cpp
+	"Palomitas.h"
+
+1339352404 c:\users\my laptop\desktop\cine\palomitas.h
+	"Articulos.h"
+	<iostream>
+
+1339784764 source:c:\users\my laptop\desktop\cine\paquete1.cpp
+	"Paquete1.h"
+
+1339355024 c:\users\my laptop\desktop\cine\paquete1.h
+	"Paquetes.h"
+
+1339355024 c:\users\my laptop\desktop\cine\paquetes.h
+	<iostream>
+	"Palomitas.h"
+	"Refresco.h"
+	"Chocolate.h"
+	"Hotdog.h"
+	"Ice.h"
+	"Nachos.h"
+
+1339352090 c:\users\my laptop\desktop\cine\refresco.h
+	<iostream>
+	"Articulos.h"
+
+1339784795 source:c:\users\my laptop\desktop\cine\paquete2.cpp
+	"Paquete2.h"
+
+1339357374 c:\users\my laptop\desktop\cine\paquete2.h
+	"Paquetes.h"
+
+1339784826 source:c:\users\my laptop\desktop\cine\paquete3.cpp
+	"Paquete3.h"
+
+1339359366 c:\users\my laptop\desktop\cine\paquete3.h
+	"Paquetes.h"
+
+1339366700 source:c:\users\my laptop\desktop\cine\paquete4.cpp
+	"Paquete4.h"
+
+1339366700 c:\users\my laptop\desktop\cine\paquete4.h
+	"Paquetes.h"
+
+1339350026 source:c:\users\my laptop\desktop\cine\paquetes.cpp
+	"Paquetes.h"
+
+1339365612 source:c:\users\my laptop\desktop\cine\refresco.cpp
+	"Refresco.h"
+

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Articulos.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="270" topLine="0" />
+	</File>
+	<File name="Articulos.h" open="1" top="0" tabpos="2">
+		<Cursor position="255" topLine="0" />
+	</File>
+	<File name="Chocolate.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="405" topLine="5" />
+	</File>
+	<File name="Chocolate.h" open="1" top="0" tabpos="8">
+		<Cursor position="356" topLine="0" />
+	</File>
+	<File name="FormadePago.cpp" open="1" top="0" tabpos="25">
+		<Cursor position="1493" topLine="56" />
+	</File>
+	<File name="FormadePago.h" open="1" top="0" tabpos="24">
+		<Cursor position="64" topLine="0" />
+	</File>
+	<File name="Hotdog.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="386" topLine="8" />
+	</File>
+	<File name="Hotdog.h" open="1" top="0" tabpos="10">
+		<Cursor position="306" topLine="1" />
+	</File>
+	<File name="Ice.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="406" topLine="8" />
+	</File>
+	<File name="Ice.h" open="1" top="0" tabpos="12">
+		<Cursor position="365" topLine="5" />
+	</File>
+	<File name="Nachos.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="386" topLine="4" />
+	</File>
+	<File name="Nachos.h" open="1" top="0" tabpos="14">
+		<Cursor position="170" topLine="2" />
+	</File>
+	<File name="Palomitas.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="1075" topLine="32" />
+	</File>
+	<File name="Palomitas.h" open="1" top="0" tabpos="4">
+		<Cursor position="188" topLine="0" />
+	</File>
+	<File name="Paquete1.cpp" open="1" top="0" tabpos="19">
+		<Cursor position="1107" topLine="38" />
+	</File>
+	<File name="Paquete1.h" open="1" top="0" tabpos="18">
+		<Cursor position="120" topLine="5" />
+	</File>
+	<File name="Paquete2.cpp" open="1" top="0" tabpos="21">
+		<Cursor position="1059" topLine="36" />
+	</File>
+	<File name="Paquete2.h" open="1" top="0" tabpos="20">
+		<Cursor position="270" topLine="0" />
+	</File>
+	<File name="Paquete3.cpp" open="1" top="0" tabpos="22">
+		<Cursor position="1034" topLine="39" />
+	</File>
+	<File name="Paquete4.cpp" open="1" top="1" tabpos="23">
+		<Cursor position="513" topLine="16" />
+	</File>
+	<File name="Paquetes.cpp" open="1" top="0" tabpos="17">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Paquetes.h" open="1" top="0" tabpos="16">
+		<Cursor position="339" topLine="7" />
+	</File>
+	<File name="Refresco.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="443" topLine="7" />
+	</File>
+	<File name="Refresco.h" open="1" top="0" tabpos="6">
+		<Cursor position="370" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="5295" topLine="166" />
+	</File>
+</CodeBlocks_layout_file>
